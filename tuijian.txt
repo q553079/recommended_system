@@ -1,0 +1,23 @@
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 9 plugins are installed 
+[0;36minfo:[0m loading plugin "katex"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "expandable-chapters-small"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 17 pages 
+[0;36minfo:[0m found 37 asset files 
+[0;33mwarn:[0m "this.generator" property is deprecated, use "this.output.name" instead 
+[0;33mwarn:[0m "navigation" property is deprecated 
+[0;33mwarn:[0m "book" property is deprecated, use "this" directly instead 
+[0;33mwarn:[0m "options" property is deprecated, use config.get(key) instead 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 7.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
